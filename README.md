@@ -22,4 +22,4 @@ sudo python setup.py install
 
 # Examples
 
-Examples for [GosuGamers](http://www.gosugamers.net) and [Overwatch Subreddit](https://reddit.com/r/overwatch)
+Examples for [GosuGamers](http://www.gosugamers.net) and [Overwatch Subreddit](https://reddit.com/r/overwatch) can be found in the `examples` directory.
